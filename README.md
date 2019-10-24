@@ -1,6 +1,6 @@
 # Dependencies
 Run `./get-latest-jmusicbot.sh` to get the latest version of jagrosh/MusicBot.
-Alternatively, follow the directions in [Manually Updating jagrosh/MusicBot](#Manually Updating jagrosh/MusicBot)
+Alternatively, follow the directions in **Manually Updating jagrosh/MusicBot**
 
 # Setup
 Follow the directions in Step 3 (edit the config file) [here](https://github.com/jagrosh/MusicBot/wiki/Setup#3-edit-the-config-file) to configure your bot.
